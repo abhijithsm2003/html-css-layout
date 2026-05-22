@@ -13,3 +13,7 @@ This is a simple webpage layout built using HTML and internal CSS.
 ## Technologies Used
 - HTML5
 - CSS3
+
+## Project Preview
+
+![Project Screenshot](webpage-layout.png)
